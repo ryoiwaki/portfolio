@@ -1,0 +1,19 @@
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+*.DS_Store
+*~
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Nuxtjs
+.nuxt
+dist
+
+# Visual Studio Code
+.vscode/
