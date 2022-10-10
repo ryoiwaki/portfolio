@@ -9,7 +9,7 @@ var browserSync = require('browser-sync');
 var postcss = require('gulp-postcss');
 var sourcemaps = require('gulp-sourcemaps');
 var autoprefixer = require('autoprefixer');
-var header = require('gulp-header');
+/* var header = require('gulp-header'); */
 var lec = require('gulp-line-ending-corrector');
 
 // scssのコンパイル
@@ -22,7 +22,7 @@ gulp.task('sass', function() {
   .pipe(sass({outputStyle: 'expanded'}))
   .pipe(postcss([autoprefixer()]))
   .pipe(lec({verbose: false, eolc: 'CRLF', encoding:'utf8'}))
-  .pipe(gulp.dest('todo/css'));
+  .pipe(gulp.dest('css/'));
 });
 
 // 保存時のリロード
@@ -39,7 +39,7 @@ gulp.task('browser-sync', function(done) {
 });
 
 // 自動監視
-gulp.task('watch', function(done) {
+gulp.task('watch', function() {
   gulp.watch('src/scss/*.scss', gulp.task('sass'));
 });
 
