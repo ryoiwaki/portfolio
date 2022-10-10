@@ -11,9 +11,5 @@ yarn-error.log
 *.sass.map
 *.scss.map
 
-# Nuxtjs
-.nuxt
-dist
-
 # Visual Studio Code
 .vscode/
