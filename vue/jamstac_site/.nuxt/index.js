@@ -12,8 +12,8 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_02c210cc from 'nuxt_plugin_plugin_02c210cc' // Source: .\\components\\plugin.js (mode: 'all')
-import nuxt_plugin_axios_235356ef from 'nuxt_plugin_axios_235356ef' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_plugin_637a8276 from 'nuxt_plugin_plugin_637a8276' // Source: .\\components\\plugin.js (mode: 'all')
+import nuxt_plugin_axios_69397799 from 'nuxt_plugin_axios_69397799' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_filter_3b4804c9 from 'nuxt_plugin_filter_3b4804c9' // Source: ..\\plugins\\filter.js (mode: 'all')
 
 // Component: <ClientOnly>
@@ -176,12 +176,12 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_02c210cc === 'function') {
-    await nuxt_plugin_plugin_02c210cc(app.context, inject)
+  if (typeof nuxt_plugin_plugin_637a8276 === 'function') {
+    await nuxt_plugin_plugin_637a8276(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_235356ef === 'function') {
-    await nuxt_plugin_axios_235356ef(app.context, inject)
+  if (typeof nuxt_plugin_axios_69397799 === 'function') {
+    await nuxt_plugin_axios_69397799(app.context, inject)
   }
 
   if (typeof nuxt_plugin_filter_3b4804c9 === 'function') {

@@ -32,11 +32,11 @@ export default {
     },
     imageClass: {
       type: String,
-      default: 'md:w-2/5',
+      default: 'md:w-4/12',
     },
     dataClass: {
       type: String,
-      default: 'w-7/12 px-6 py-4 mb:px-0 mb:px-0',
+      default: 'w-8/12 px-6 py-4 mb:px-0 mb:px-0',
     },
     flagBody: {
       type: Boolean,

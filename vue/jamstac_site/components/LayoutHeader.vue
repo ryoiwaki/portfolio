@@ -1,5 +1,5 @@
 <template>
-  <header class="w-full absolute md:static bg-black px-2 py-2 z-50">
+  <header class="w-full absolute md:static bg-yellow-800 px-2 py-2 z-50">
     <div class="md:max-w-3xl mx-auto md:flex md:items-center">
       <div
         class="w-full md:flex mx-auto px-6 md:px-0 flex justify-between items-center h-16"
@@ -28,7 +28,7 @@
         </div>
       </div>
       <nav
-        class="w-full md:block absolute left-0 md:static bg-black md:bg-none z-20"
+        class="w-full md:block absolute left-0 md:static bg-yellow-800 md:bg-none z-20"
         :class="isOpen ? 'block' : 'hidden'"
       >
         <ul class="md:flex md:justify-end md:items-end">

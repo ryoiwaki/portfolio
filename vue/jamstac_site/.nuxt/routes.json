@@ -2,43 +2,37 @@
   {
     "name": "concept",
     "path": "/concept",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\concept\\\\index.vue",
-    "chunkName": "pages/concept/index",
-    "_name": "_e2d083b6"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\concept\\\\index.vue",
+    "chunkName": "pages/concept/index"
   },
   {
     "name": "information",
     "path": "/information",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\information\\\\index.vue",
-    "chunkName": "pages/information/index",
-    "_name": "_63bb1761"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\information\\\\index.vue",
+    "chunkName": "pages/information/index"
   },
   {
     "name": "menu",
     "path": "/menu",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\menu\\\\index.vue",
-    "chunkName": "pages/menu/index",
-    "_name": "_306aa868"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\menu\\\\index.vue",
+    "chunkName": "pages/menu/index"
   },
   {
     "name": "shop",
     "path": "/shop",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\shop\\\\index.vue",
-    "chunkName": "pages/shop/index",
-    "_name": "_8d99631e"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index"
   },
   {
     "name": "information-id",
     "path": "/information/:id",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\information\\\\_id.vue",
-    "chunkName": "pages/information/_id",
-    "_name": "_5c397e09"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\information\\\\_id.vue",
+    "chunkName": "pages/information/_id"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_cc746732"
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\vue\\\\jamstac_site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

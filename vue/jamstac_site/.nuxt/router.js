@@ -3,12 +3,12 @@ import Router from 'vue-router'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _e2d083b6 = () => interopDefault(import('..\\pages\\concept\\index.vue' /* webpackChunkName: "pages/concept/index" */))
-const _63bb1761 = () => interopDefault(import('..\\pages\\information\\index.vue' /* webpackChunkName: "pages/information/index" */))
-const _306aa868 = () => interopDefault(import('..\\pages\\menu\\index.vue' /* webpackChunkName: "pages/menu/index" */))
-const _8d99631e = () => interopDefault(import('..\\pages\\shop\\index.vue' /* webpackChunkName: "pages/shop/index" */))
-const _5c397e09 = () => interopDefault(import('..\\pages\\information\\_id.vue' /* webpackChunkName: "pages/information/_id" */))
-const _cc746732 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _163b9487 = () => interopDefault(import('..\\pages\\concept\\index.vue' /* webpackChunkName: "pages/concept/index" */))
+const _2ee8ecc3 = () => interopDefault(import('..\\pages\\information\\index.vue' /* webpackChunkName: "pages/information/index" */))
+const _2f733d46 = () => interopDefault(import('..\\pages\\menu\\index.vue' /* webpackChunkName: "pages/menu/index" */))
+const _8f883962 = () => interopDefault(import('..\\pages\\shop\\index.vue' /* webpackChunkName: "pages/shop/index" */))
+const _eb7d782a = () => interopDefault(import('..\\pages\\information\\_id.vue' /* webpackChunkName: "pages/information/_id" */))
+const _5c9edfc5 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
 const emptyFn = () => {}
@@ -28,27 +28,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/concept",
-    component: _e2d083b6,
+    component: _163b9487,
     name: "concept"
   }, {
     path: "/information",
-    component: _63bb1761,
+    component: _2ee8ecc3,
     name: "information"
   }, {
     path: "/menu",
-    component: _306aa868,
+    component: _2f733d46,
     name: "menu"
   }, {
     path: "/shop",
-    component: _8d99631e,
+    component: _8f883962,
     name: "shop"
   }, {
     path: "/information/:id",
-    component: _5c397e09,
+    component: _eb7d782a,
     name: "information-id"
   }, {
     path: "/",
-    component: _cc746732,
+    component: _5c9edfc5,
     name: "index"
   }],
 
