@@ -1,7 +1,7 @@
 <template>
   <layout-wrapper>
     <layout-visual
-      title="JAMSTAC SITE Demo"
+      title="JAMSTAC SITE DEMO"
       message="microCMSを利用して架空のお知らせやメニューを表示しています。"
     />
     <div class="w-full md:max-w-3xl mx-auto pt-20 px-6 md:px-0">

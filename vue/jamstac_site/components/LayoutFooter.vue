@@ -3,7 +3,7 @@
     <p
       class="text-center text-white text-sm font-bold leading-relaxed whitespace-no-wrap uppercase"
     >
-      Copyright &copy; 2022 JAMSTAC SITE Demo
+      Copyright &copy; 2022 JAMSTAC SITE DEMO
     </p>
   </footer>
 </template>
