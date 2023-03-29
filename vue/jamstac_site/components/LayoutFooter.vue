@@ -3,7 +3,7 @@
     <p
       class="text-center text-white text-sm font-bold leading-relaxed whitespace-no-wrap uppercase"
     >
-      Copyright &copy; 2020 NUXT SMAPLE SITE DEMO
+      Copyright &copy; 2022 JAMSTAC SITE Demo
     </p>
   </footer>
 </template>
