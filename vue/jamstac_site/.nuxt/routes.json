@@ -1,0 +1,44 @@
+[
+  {
+    "name": "concept",
+    "path": "/concept",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\concept\\\\index.vue",
+    "chunkName": "pages/concept/index",
+    "_name": "_e2d083b6"
+  },
+  {
+    "name": "information",
+    "path": "/information",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\information\\\\index.vue",
+    "chunkName": "pages/information/index",
+    "_name": "_63bb1761"
+  },
+  {
+    "name": "menu",
+    "path": "/menu",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\menu\\\\index.vue",
+    "chunkName": "pages/menu/index",
+    "_name": "_306aa868"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_8d99631e"
+  },
+  {
+    "name": "information-id",
+    "path": "/information/:id",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\information\\\\_id.vue",
+    "chunkName": "pages/information/_id",
+    "_name": "_5c397e09"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\heart\\\\OneDrive\\\\デスクトップ\\\\works\\\\portfolio\\\\jamstac_site\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_cc746732"
+  }
+]
