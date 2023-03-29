@@ -5,7 +5,7 @@
       message="microCMSを利用して架空のお知らせやメニューを表示しています。"
     />
     <div class="w-full md:max-w-3xl mx-auto pt-20 px-6 md:px-0">
-      <base-heading>MdN Cafeのおすすめメニュー<br>（架空の商品になります）</base-heading>
+      <base-heading>Demo Cafeのおすすめメニュー<br>（架空の商品になります）</base-heading>
       <div class="flex md:flex-wrap justify-between mb-20 md:mb-0">
         <layout-menu-list
           v-for="(item, index) in menuItems"
@@ -23,7 +23,7 @@
         />
       </div>
       <base-button name="メニューの一覧" link="/menu" />
-      <base-heading>MdN Cafeのお知らせ</base-heading>
+      <base-heading>Demo Cafeのお知らせ</base-heading>
       <div class="mb-20">
         <layout-information-list
           v-for="(item, index) in infoItems"

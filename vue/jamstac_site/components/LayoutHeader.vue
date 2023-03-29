@@ -9,7 +9,7 @@
             class="text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap"
             href="/"
           >
-            MdN Cafe
+            Demo Cafe
           </a>
         </h1>
         <div class="text-white md:hidden">
